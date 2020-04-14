@@ -38,8 +38,7 @@
 <!-- slide vertical=true -->
 
 - [网页模板](https://github.com/ssschnappi/luuusir.github.io)
-  - 我的个人网站使用的主题样式，欢迎你用于[搭建自己的页面]
-(https://github.com/ssschnappi/luuusir.github.io)~[![Star](https://img.shields.io/github/stars/wu-kan/wu-kan.github.io.svg)](https://github.com/wu-kan/wu-kan.github.io)[![Fork](https://img.shields.io/github/forks/wu-kan/wu-kan.github.io.svg)](https://github.com/wu-kan/wu-kan.github.io/fork)
+  - 我的个人网站使用的主题样式，欢迎你用于[搭建自己的页面](https://github.com/ssschnappi/luuusir.github.io)~[![Star](https://img.shields.io/github/stars/wu-kan/wu-kan.github.io.svg)](https://github.com/wu-kan/wu-kan.github.io)[![Fork](https://img.shields.io/github/forks/wu-kan/wu-kan.github.io.svg)](https://github.com/wu-kan/wu-kan.github.io/fork)
 
 <!-- slide -->
 
