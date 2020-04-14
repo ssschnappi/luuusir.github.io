@@ -6,17 +6,17 @@
 
 ## 我的一些联系方式
 
-- Address: **Sun Yat-sen University - 132 Waihuan East Rd. - Guangzhou, China**
-- Phone: **+86 18756280097**
-- Site: **<https://wu-kan.cn>**
+- 地址: **蚌埠龙子湖区-大学城-蚌埠学院-7号楼**
+- 联系号码: **保密，嘿嘿**
+- Site: **<https://github.com/ssschnappi>**
 
 <!-- slide vertical=true -->
 
 - E-mail:
-  - **[i@wu-kan.cn](mailto:i@wu-kan.cn)**
-  - **[wukan3@mail2.sysu.edu.cn](mailto:wukan3@mail2.sysu.edu.cn)**
-- WeChat: **Wu-\_-Kan**
-- QQ: **942759535**
+  - **[2540956903@qq.com](mailto:2540956903@qq.com)**
+  - **[sssschnappi@gmail.com](mailto:sssschnappi@gmail.com)**
+- 微信: **LZQ19980810**
+- QQ: **2540956903**
 
 <!-- slide -->
 
@@ -24,7 +24,7 @@
 
 <!-- slide vertical=true -->
 
-School of Data and Computer Science, Sun Yat-sen University, Guangzhou, Sept. 2017 - Jul. 2021(expected)
+蚌埠学院计算机工程学院17级计科2017 - 2021
 
 - Bachelor of Computer Science (Supercomputer Class)
   - Principle of Supercomputer
@@ -37,8 +37,10 @@ School of Data and Computer Science, Sun Yat-sen University, Guangzhou, Sept. 20
 
 <!-- slide vertical=true -->
 
-- [jekyll-theme-WuK](https://jekyll-theme-WuK.wu-kan.cn/)
-  - 我的个人主页使用的主题样式，也欢迎你用于[搭建自己的页面](https://jekyll-theme-WuK.wu-kan.cn/)~[![Star](https://img.shields.io/github/stars/wu-kan/wu-kan.github.io.svg)](https://github.com/wu-kan/wu-kan.github.io)[![Fork](https://img.shields.io/github/forks/wu-kan/wu-kan.github.io.svg)](https://github.com/wu-kan/wu-kan.github.io/fork)
+- [网页模板](https://github.com/ssschnappi/luuusir.github.io)
+  - 我的个人网站使用的主题样式
+    欢迎你用于[搭建自己的页面]
+(https://github.com/ssschnappi/luuusir.github.io)~[![Star](https://img.shields.io/github/stars/wu-kan/wu-kan.github.io.svg)](https://github.com/wu-kan/wu-kan.github.io)[![Fork](https://img.shields.io/github/forks/wu-kan/wu-kan.github.io.svg)](https://github.com/wu-kan/wu-kan.github.io/fork)
 
 <!-- slide -->
 
