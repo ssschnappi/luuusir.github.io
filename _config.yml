@@ -20,7 +20,7 @@ description: | # 头像背后的信息（html格式），<br/>代表换行
     <i class="fab fa-zhihu"></i>
   </a>
   <iframe 
-src="//music.163.com/outchain/player?type=2&id=167876&auto=1&height=32">
+src="https://music.163.com/outchain/player?type=2&id=167876&auto=1&height=32">
 frameborder="no" 
 border="0" 
 marginwidth="0" 
@@ -57,12 +57,12 @@ jekyll-theme-WuK: # 我的主题的自定义样式都在这个命名空间
       - | # 网站小图标，可换成你自己的图片，改href中的部分即可
         <link
           rel="apple-touch-icon-precomposed"
-          href="https://external-preview.redd.it/GYImYPtvaCuybo55dsqFZin-k8FXfIWKJDRmAqbDAX0.jpg?auto=webp&s=8df9e6aca8d899eff9b7d7b1f665b2fd80fb568c"
+          href="https://gravatar.loli.net/avatar/289efba375d63424de3c49569c446744?s=320"
         />
         <link
           rel="shortcut
           icon"
-          href="https://external-preview.redd.it/GYImYPtvaCuybo55dsqFZin-k8FXfIWKJDRmAqbDAX0.jpg?auto=webp&s=8df9e6aca8d899eff9b7d7b1f665b2fd80fb568c"
+          href="https://gravatar.loli.net/avatar/289efba375d63424de3c49569c446744?s=32"
         />
       - | # 来自lanyon的页面样式，不要改
         <link
