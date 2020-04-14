@@ -1,34 +1,97 @@
-﻿Sakura🌸: 樱花庄的白猫博客主题
-===
+# 星合の空
 
-中文 | [Engilsh](README-en.md)
+欢迎访问我的个人主页！下面向你介绍一下我自己吧~
 
-![Sakura](https://view.moezx.cc/images/2018/05/26/sakura.png)
+<!-- slide -->
 
-![PHP version](https://shader.2heng.xin/badge/PHP-7.1+-4F5B93.svg?style=flat-square&logo=php)
-![WP version](https://shader.2heng.xin/badge/WordPress-5.3-0073aa.svg?style=flat-square&logo=wordpress)
-[![GitHub release](https://img.shields.io/github/v/release/mashirozx/Sakura.svg?style=flat-square&logo=github)](https://github.com/mashirozx/Sakura/releases/latest)
-[![Github commits (since latest release)](https://img.shields.io/github/commits-since/mashirozx/Sakura/latest/dev.svg?style=flat-square&logo=git&color=important)](https://github.com/mashirozx/Sakura/commits/dev)
-[![](https://data.jsdelivr.com/v1/package/gh/moezx/cdn/badge)](https://www.jsdelivr.com/package/gh/moezx/cdn)
+## 我的一些联系方式
 
-在 Louie 基于 Fuzzz 的 [Akina](http://www.akina.pw/themeakina) 主题修改的主题 [Siren](https://github.com/louie-senpai/Siren) 基础上三次修改 =.=
+- Address: **Sun Yat-sen University - 132 Waihuan East Rd. - Guangzhou, China**
+- Phone: **+86 18756280097**
+- Site: **<https://wu-kan.cn>**
 
-两位前辈做得已经很棒了，或许我所做的只是把他们的代码弄得凌乱不堪吧 :)
+<!-- slide vertical=true -->
 
-特别感谢 [@Spirit](https://github.com/spirit1431007) 对本项目的贡献！
+- E-mail:
+  - **[i@wu-kan.cn](mailto:i@wu-kan.cn)**
+  - **[wukan3@mail2.sysu.edu.cn](mailto:wukan3@mail2.sysu.edu.cn)**
+- WeChat: **Wu-\_-Kan**
+- QQ: **942759535**
 
-注意：建议 `git clone` 下载（[简易 Git 使用指南](https://github.com/mashirozx/Sakura/wiki/Git-%E4%B8%8B%E8%BD%BD%E3%80%81%E6%9B%B4%E6%96%B0%E6%8C%87%E5%8D%97)）；如果选择下载压缩包，**解压后记得把文件夹名改回 `Sakura`，也即保证主题路径为 `/wp-content/themes/Sakura/`**；主题设置在 `菜单-外观-Sakura 主题设置` 中；DIY 的时候建议采用[子主题](https://github.com/mashirozx/Sakura/tree/child) 并勾选 `Sakura 主题设置-CDN-本地调用主题 js、css 文件`；请留意主题说明里的其他注意事项。
+<!-- slide -->
 
-主题使用说明见：<https://2heng.xin/theme-sakura/>
+## 我的一些教育情况
 
-本仓库国内镜像：<https://gitee.com/mashirozx/Sakura>
+<!-- slide vertical=true -->
 
-主题交流群：860262481
+School of Data and Computer Science, Sun Yat-sen University, Guangzhou, Sept. 2017 - Jul. 2021(expected)
 
-希望你喜欢！
+- Bachelor of Computer Science (Supercomputer Class)
+  - Principle of Supercomputer
+  - Parallel and Distributed Computing
+  - High Performance Computing
 
-### 打赏支持~
-[微信支付](https://view.moezx.cc/images/2018/05/28/WeChanQR.png) | [支付宝](https://view.moezx.cc/images/2018/05/28/AliPayQR.jpg) | [PayPal](https://paypal.me/mashirozx)
+<!-- slide -->
 
-### 需要服务器吗？
-[![](https://www.vultr.com/media/banners/banner_728x90.png)](https://www.vultr.com/?ref=7674346)
+## 我的一些项目成果
+
+<!-- slide vertical=true -->
+
+- [jekyll-theme-WuK](https://jekyll-theme-WuK.wu-kan.cn/)
+  - 我的个人主页使用的主题样式，也欢迎你用于[搭建自己的页面](https://jekyll-theme-WuK.wu-kan.cn/)~[![Star](https://img.shields.io/github/stars/wu-kan/wu-kan.github.io.svg)](https://github.com/wu-kan/wu-kan.github.io)[![Fork](https://img.shields.io/github/forks/wu-kan/wu-kan.github.io.svg)](https://github.com/wu-kan/wu-kan.github.io/fork)
+
+<!-- slide -->
+
+## 我的一些成就
+
+<!-- slide vertical=true -->
+
+- **Top 0.05% in 11395**, [The 18th CCF Certified Software Professional](https://wu-kan.cn/_posts/2019-12-16-%E7%AC%AC%E5%8D%81%E5%85%AB%E6%AC%A1CCF%E8%AE%A1%E7%AE%97%E6%9C%BA%E8%BD%AF%E4%BB%B6%E8%83%BD%E5%8A%9B%E8%AE%A4%E8%AF%81/), Dec. 2019
+- **Silver Medal**, [ICPC Asia Regional Contest Xuzhou Site](https://wu-kan.cn/_posts/2019-11-04-%E5%86%8D%E8%A7%81-%E7%AE%97%E6%B3%95%E7%AB%9E%E8%B5%9B/), Nov. 2019
+- **Second Scholarship**, Oct. 2019
+- **First Prize**, China Collegiate Programming Contest, Guangdong Division, May 2019
+
+<!-- slide vertical=true -->
+
+- **Third Scholarship**, Oct. 2018
+- **First Prize**, China Collegiate Programming Contest, Guangdong Division, May 2018
+
+<!-- slide -->
+
+## 我的一些技能
+
+<!-- slide vertical=true -->
+
+- **C/C++**, Familiar
+  - **OpenMP**, Familiar
+  - **MPI**, Familiar&Learning
+  - **CUDA**, Learning
+- **Python**, Familiar
+
+<!-- slide vertical=true -->
+
+- **Markdown**, Familiar
+- **LaTex**, Familiar
+- **Linux**, Familiar&Learning
+- **Git**, Familiar
+- **VSCode**, Familiar
+
+<!-- slide -->
+
+## 我的一些领导力
+
+TBD
+
+<!-- slide -->
+
+## 我的一些文字
+
+- [基于 Jekyll 搭建个人博客](https://wu-kan.cn/_posts/2019-01-18-%E5%9F%BA%E4%BA%8EJekyll%E6%90%AD%E5%BB%BA%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2/)
+- [我的算法竞赛模板](https://wu-kan.cn/_posts/2019-02-04-%E6%88%91%E7%9A%84%E7%AE%97%E6%B3%95%E7%AB%9E%E8%B5%9B%E6%A8%A1%E6%9D%BF/)
+- [这一年的一点感想](https://wu-kan.cn/_posts/2019-07-18-%E8%BF%99%E4%B8%80%E5%B9%B4%E7%9A%84%E4%B8%80%E7%82%B9%E6%84%9F%E6%83%B3/)
+
+<!-- slide vertical=true -->
+
+- [再见，算法竞赛！](https://wu-kan.cn/_posts/2019-11-04-%E5%86%8D%E8%A7%81-%E7%AE%97%E6%B3%95%E7%AB%9E%E8%B5%9B/)
+- [Markdown 写作心得](https://wu-kan.cn/_posts/2020-01-18-Markdown%E5%86%99%E4%BD%9C%E5%BF%83%E5%BE%97/)
+- [今日此时所想之事](http://wu-kan.cn/_posts/2020-01-24-%E4%BB%8A%E6%97%A5%E6%AD%A4%E6%97%B6%E6%89%80%E6%83%B3%E4%B9%8B%E4%BA%8B/)
