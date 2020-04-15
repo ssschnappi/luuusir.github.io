@@ -51,11 +51,10 @@
   - **c#**     Learning
 - **网页开发**
   - **HTML5等** Familiar&Learning
+- **开发工具**
+  - **eclipse**  Familiar
+  - **VSCode**   Familiar
 
-<!-- slide vertical=true -->
-
-- **eclipse**  Familiar
-- **VSCode**   Familiar
 
 <!-- slide -->
 
