@@ -24,12 +24,10 @@
 
 <!-- slide vertical=true -->
 
-蚌埠学院计算机工程学院17级计科2017 - 2021
-
-- Bachelor of Computer Science (Supercomputer Class)
-  - Principle of Supercomputer
-  - Parallel and Distributed Computing
-  - High Performance Computing
+  - 蚌埠学院计算机工程学院17级计科 2017 - 2021
+  - 安庆市怀宁中学 2014-017
+  - ...
+  
 
 <!-- slide -->
 
@@ -42,6 +40,7 @@
 
 <!-- slide -->
 
+<!--
 ## 我的一些成就
 
 <!-- slide vertical=true -->
@@ -49,12 +48,14 @@
 - **Top 0.05% in 11395**, [The 18th CCF Certified Software Professional](https://wu-kan.cn/_posts/2019-12-16-%E7%AC%AC%E5%8D%81%E5%85%AB%E6%AC%A1CCF%E8%AE%A1%E7%AE%97%E6%9C%BA%E8%BD%AF%E4%BB%B6%E8%83%BD%E5%8A%9B%E8%AE%A4%E8%AF%81/), Dec. 2019
 - **Silver Medal**, [ICPC Asia Regional Contest Xuzhou Site](https://wu-kan.cn/_posts/2019-11-04-%E5%86%8D%E8%A7%81-%E7%AE%97%E6%B3%95%E7%AB%9E%E8%B5%9B/), Nov. 2019
 - **Second Scholarship**, Oct. 2019
-- **First Prize**, China Collegiate Programming Contest, Guangdong Division, May 2019
+- **First Prize**, China Collegiate Programming Contest, Guangdong Division, May 2019 -->
 
-<!-- slide vertical=true -->
+<!-- slide vertical=true 
+
 
 - **Third Scholarship**, Oct. 2018
 - **First Prize**, China Collegiate Programming Contest, Guangdong Division, May 2018
+-->
 
 <!-- slide -->
 
@@ -62,19 +63,16 @@
 
 <!-- slide vertical=true -->
 
-- **C/C++**, Familiar
-  - **OpenMP**, Familiar
-  - **MPI**, Familiar&Learning
-  - **CUDA**, Learning
-- **Python**, Familiar
-
+- **开发语言**
+  - **c/c++**  Familiar
+  - **java**   Familiar&Learning
+  - **c#**     Learning
+- **网页开发**
+  - **HTML5，CSS,JavaScript** Familiar&Learning
 <!-- slide vertical=true -->
 
-- **Markdown**, Familiar
-- **LaTex**, Familiar
-- **Linux**, Familiar&Learning
-- **Git**, Familiar
-- **VSCode**, Familiar
+- **eclipse**  Familiar
+- **VSCode**   Familiar
 
 <!-- slide -->
 
