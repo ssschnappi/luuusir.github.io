@@ -7,15 +7,10 @@
 ## 我的一些联系方式
 
 - 地址: **蚌埠龙子湖区-大学城-蚌埠学院-7号楼**
-- 联系号码: **保密，嘿嘿**
 - Site: **<https://github.com/ssschnappi>**
-
-<!-- slide vertical=true -->
-
 - E-mail:
   - **[2540956903@qq.com](mailto:2540956903@qq.com)**
   - **[sssschnappi@gmail.com](mailto:sssschnappi@gmail.com)**
-- 微信: **LZQ19980810**
 - QQ: **2540956903**
 
 <!-- slide -->
