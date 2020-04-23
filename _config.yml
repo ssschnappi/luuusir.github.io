@@ -1,7 +1,7 @@
-title: wu-kan # 站点标题
+title: Luuusir # 站点标题
 description: | # 头像背后的信息（html格式），<br/>代表换行
   蚌埠学院17级计科在读<br/>
-  永远热爱生活<br/>
+  永远保持好奇心<br/>
   
   ASC<br/>
   <a href="mailto:sssschnappi@gmail.com">
@@ -56,12 +56,12 @@ jekyll-theme-WuK: # 我的主题的自定义样式都在这个命名空间
       - | # 网站小图标，可换成你自己的图片，改href中的部分即可
         <link
           rel="apple-touch-icon-precomposed"
-          href="https://gravatar.loli.net/avatar/289efba375d63424de3c49569c446744?s=320"
+          href="https://s9.sinaimg.cn/large/001GnBsuzy6ROW01MtGa8"
         />
         <link
           rel="shortcut
           icon"
-          href="https://gravatar.loli.net/avatar/289efba375d63424de3c49569c446744?s=32"
+          href="https://s9.sinaimg.cn/large/001GnBsuzy6ROW01MtGa8"
         />
       - | # 来自lanyon的页面样式，不要改
         <link
